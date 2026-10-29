@@ -1,0 +1,18 @@
+# Packages imported by SentimentScope.ipynb.
+#
+# Versions are not pinned because the project was run inside the course
+# workspace rather than a local environment; pin them to whatever you install
+# if you need a reproducible setup.
+#
+# torch: install the build that matches your CUDA version if you have a GPU.
+# See https://pytorch.org for the correct index URL. The notebook falls back
+# to CPU automatically, but training will be much slower.
+
+torch
+transformers
+pandas
+numpy
+matplotlib
+
+# To open and run the notebook
+jupyter
